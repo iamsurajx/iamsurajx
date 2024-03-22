@@ -29,3 +29,9 @@
   <img height="180em" src="https://streak-stats.demolab.com?user=iamsurajx&theme=react" alt="GitHub Streak" />
 
 </a>
+
+<br/>
+
+<a href="https://github.com/KUNAL01011/iamsurajx">
+  <img  src="https://github-readme-activity-graph.vercel.app/graph?username=iamsurajx&theme=react-dark" />
+</a>
